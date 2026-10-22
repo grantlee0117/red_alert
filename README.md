@@ -26,6 +26,7 @@ Red Alert/
 │   │   ├── factions/                  # 05-阵营与国家
 │   │   ├── controls/                  # 06-操作与快捷键
 │   │   └── maps/                      # 07-地图与游戏模式
+│   ├── strategies/                    # 五国全流程策略（每国一篇）
 │   └── advanced/                      # 08-进阶内容
 │
 └── 📚 wiki/                           # 速查资料库
