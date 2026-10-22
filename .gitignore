@@ -1,0 +1,3 @@
+# Obsidian 每次打开都会变的工作区文件，只产生提交噪音
+.obsidian/workspace.json
+.obsidian/graph.json
